@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 @Component({
   selector: 'app-footer',
   templateUrl: './footer.component.html',
